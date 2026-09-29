@@ -35,7 +35,7 @@ A proposta é demonstrar **como as decisões de teste são construídas antes da
 
 A aplicação Web utilizada como referência neste projeto é a **Sauce Demo**, uma aplicação de demonstração baseada no domínio de e-commerce.
 
-A aplicação é de terceiros e **não foi desenvolvida por Rodrigo Cardoso**.
+A aplicação é de terceiros e **não foi desenvolvida por mim**.
 
 Ela será utilizada exclusivamente como **sistema sob teste (SUT)** para a realização das análises e demonstrações de Quality Assurance deste portfólio.
 
